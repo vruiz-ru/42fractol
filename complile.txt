@@ -1,0 +1,1 @@
+gcc parabola.c libmlx_Linux.a -Iminilibx-linux -Lminilibx-linux -lXext -lX11 -lm -lz
